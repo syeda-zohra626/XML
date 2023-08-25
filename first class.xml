@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl-stylesheet type="text/xsl" href="index.xsl">
+<school>
+   <class> 
+<stdname>ZOHRA</stdname>
+<age>17</age>
+<address>KARACHI</address>
+</class>
+</school>
